@@ -1,0 +1,31 @@
+1. A
+2. A
+3. B
+4. D
+5. C
+6. B
+7. B
+8. A
+9. C
+10. Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more 
+    frequent in occurrence than data far from the mean. In graph form, normal distribution will appear as a bell curve.The normal distribution is often called the bell curve 
+    because the graph of its probability density looks like a bell.
+11. Techniques for Handling the Missing Data
+     Listwise or case deletion. 
+     Pairwise deletion. 
+     Mean substitution. 
+     Regression imputation. 
+     Last observation carried forward.
+     Maximum likelihood. 
+     Expectation-Maximization. 
+     Multiple imputation.
+    The simplest imputation method is replacing missing values with the mean or median values of the dataset at large, or some similar summary statistic. This has the advantage
+    of being the simplest possible approach, and one that doesn't introduce any undue bias into the dataset.
+12. A/B testing is a user experience research methodology. A/B tests consist of a randomized experiment with two variants, A and B. It includes application of statistical 
+    hypothesis testing or "two-sample hypothesis testing" as used in the field of statistics.
+13. No,  mean imputation of missing data acceptable practice. If just estimating means: mean imputation preserves the mean of the observed data. Leads to an underestimate of the 
+    standard deviation.Distorts relationships between variables by “pulling” estimates of the correlation toward zero Source.
+14. In statistics, linear regression is a linear approach to modeling the relationship between a scalar response and one or more explanatory variables. The case of one explanatory
+    variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.
+15. The two main branches of statistics are descriptive statistics and inferential statistics. Both of these are employed in scientific analysis of data and both are equally important
+    for the statistics.
